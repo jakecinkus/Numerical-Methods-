@@ -9,4 +9,7 @@
   - The lower guess and upper guess at the root
 
 ## The outputs will then be: 
-  - The estimated root location, the function value evaluated at that root, the approximate relative error, and how many iterations were performed to get to this root. 
+  - The estimated root location
+  - The function value evaluated at that root
+  - The approximate relative error
+  - How many iterations were performed to get to this root
