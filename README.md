@@ -4,7 +4,7 @@
 
 ## The three codes I am displaying are:
 
-  - My Simposons 1/3 Rule algorithm
+  - My Simposons 1/3 Rule Algorithm
   - My False Postion Algorithm
   - My LU Factorization Algorithm
   
