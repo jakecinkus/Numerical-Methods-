@@ -4,6 +4,7 @@
 
 ## Inputs
   - A coefficient matrix. 
+  - *Make sure the dimensions agree when inputing. 
   
 ## Outputs
   - A lower triangular matrix
